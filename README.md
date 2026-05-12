@@ -1,1 +1,1 @@
-# NLP-imdb_sentiment
+# DS6050-imdb_sentiment

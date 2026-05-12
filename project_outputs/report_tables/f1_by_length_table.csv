@@ -1,0 +1,4 @@
+Model,Short F1,Medium F1,Long F1
+Logistic Regression,0.9025,0.8856,0.8902
+BiLSTM_T128_head+tail,0.8758,0.8253,0.7873
+RoBERTa_T512_head-only,0.9422,0.9278,0.8883
